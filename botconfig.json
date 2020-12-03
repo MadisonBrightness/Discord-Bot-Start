@@ -1,0 +1,6 @@
+{
+    "MONGO": "Your_Mongo_Token",
+    "TOKEN": "Your_Bot_Token",
+    "PREFIX": "Your_Prefix",
+    "COLOR": "Your_Main_Color"
+}
