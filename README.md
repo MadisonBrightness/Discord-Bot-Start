@@ -14,10 +14,14 @@ https://account.mongodb.com/account/login
 - ```Say```
 
 ## 👁‍🗨 Host 
-- ```This bot supports Heroku and Self hosting.```
+- ```This bot supports Heroku, Glitch, and Self hosting.```
 
 ## 🧧 How to Host with Heroku
 - ```Info on how to host with heroku coming soon..```
+
+## 💨 Run the projects
+- Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/MadisonBrightness/Discord-Bot-Start)
+- Repl: [![Run on Repl.it](https://repl.it/badge/github/HELLMAKER0001/Alt-Detector)](https://repl.it/github/MadisonBrightness/Discord-Bot-Start)
 
 ## ✨ Contributors
 - Coded By: \~Madison\~#6451
