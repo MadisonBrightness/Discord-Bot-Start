@@ -7,7 +7,6 @@ const client = new Client({ disableEveryone: true });
 const botconfig = require('./botconfig.json');
 const { Database } = require("quickmongo");
 const db = new Database(botconfig.MONGO); // mongodb url
-const quickdb = require("quick.db");
 
 require('events').EventEmitter.defaultMaxListeners = 0
 client.commands = new Collection();
