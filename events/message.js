@@ -4,7 +4,6 @@ const Discord = require('discord.js');
 const { MessageEmbed } = require('discord.js');
 const botconfig = require('../botconfig.json');
 const { Database } = require("quickmongo");
-const quickdb = require("quick.db")
 const db = new Database(botconfig.MONGO);
 const { color, Color } = botconfig.COLOR;
 module.exports = async (client, message) => {
