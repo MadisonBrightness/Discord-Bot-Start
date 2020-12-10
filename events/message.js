@@ -5,7 +5,7 @@ const { MessageEmbed } = require('discord.js');
 const botconfig = require('../botconfig.json');
 const { Database } = require("quickmongo");
 const db = new Database(botconfig.MONGO);
-const { color, Color } = botconfig.COLOR;
+const color = botconfig.COLOR;
 module.exports = async (client, message) => {
   if (message.author.bot) return;
 
